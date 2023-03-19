@@ -1,2 +1,2 @@
 # docker-python-cmake
-Docker for Python 3.9 and CMake 3.25
+Dockerfile for Python 3.9 and CMake 3.25 and GitHub workflow for RaspberryPi build
